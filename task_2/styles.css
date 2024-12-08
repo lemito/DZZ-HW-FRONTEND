@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4CAF50;
+    text-align: center;
+    padding: 10px 0;
+}
+
+main {
+    display: flex;
+}
+
+.text-section {
+    flex: 1;
+    padding: 20px;
+    border: #4CAF50 1px solid;
+}
+
+.image-section img {
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.8em;
+    margin-top: 20px;
+}
